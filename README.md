@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="v91nU4H_VeXqFNI9avX_7L1AO1ydfQQncOLoNNKXlks" />
 <h1 align="center">Hi 👋, I'm Arek</h1>
 <h3 align="center">A opitimization freak. Backend lover.</h3>
 
